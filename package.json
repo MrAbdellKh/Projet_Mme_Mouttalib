@@ -1,0 +1,14 @@
+{
+  "name": "app_korchi_api",
+  "version": "1.0.0",
+  "description": "initialisation d'un projet a l'aide de node.js avec Express.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "korchi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
