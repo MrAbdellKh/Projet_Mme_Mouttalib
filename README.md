@@ -5,3 +5,5 @@ projet de stage
 3. Créez un serveur dans un fichier principal (app.js ou server.js) qui écoute sur un port spécifié.
 4. Configurez une seule route (par exemple, une requête GET vers '/test' qui envoie une réponse en texte brut "Bonjour tout le monde !").
 5. Poussez votre projet sur GitHub, créant ainsi un nouveau référentiel.
+
+6. (The project is in the master branch !!)
